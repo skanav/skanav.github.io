@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">A list of selected publications. Full list can be found on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
@@ -34,3 +34,13 @@ author_profile: true
 
 
 
+<table class="table">
+  <tbody>
+      {% assign prev_year = 1900 %}
+      {% for entry in site.publications.pubs.entries %}
+          {% assign publication=entry[1] %}
+          {% include publication_line.html publication=publication prev_year=prev_year %}
+          {% assign prev_year = publication.year %}
+      {% endfor %}
+  </tbody>
+</table>
