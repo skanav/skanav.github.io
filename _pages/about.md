@@ -10,12 +10,11 @@ redirect_from:
 I am a software developer at heart who has slowly moved to academia in the past few years.
 I am interested in abstract ideas that can be connected to reality.
 
-Since April 2023, I am a postdoctoral researcher at [Learning in Verification lab](https://live-lab.fi.muni.cz/) in the Faculty of Informatics, Masaryk University, Brno, where I am working with [Prof. Jan Křetínský](https://scholar.google.com/citations?user=w4KVyKAAAAAJ&hl=en). I am working with the PhD students in the areas of neural network verification and explainable representation of MDP/POMDP strategies.
+Since April 2023, I am a postdoctoral researcher at the [Learning in Verification lab](https://live-lab.fi.muni.cz/) in the Faculty of Informatics, Masaryk University, Brno, where I am working with [Prof. Jan Křetínský](https://scholar.google.com/citations?user=w4KVyKAAAAAJ&hl=en). I am working with the PhD students in the areas of safety of neural networks and explainable representation of strategies for probabilistic models (MDP/POMDP).
 I did my PhD with [Prof. Dirk Beyer](https://www.sosy-lab.org/people/beyer/) at [SoSy Lab](https://www.sosy-lab.org/) in [LMU, Munich](https://www.lmu.de/en/) on the topic of cooperative verification.
 
-I was working as a research scientist at [fortiss GmbH](https://www.fortiss.org/en/) from Jan 2016 to Sep 2019. I started my PhD studies in Oct 2019.
+Before starting my PhD in Oct 2019, I was working as a research scientist at [fortiss GmbH](https://www.fortiss.org/en/) from Jan 2016 to Sep 2019.
 I finished my masters in computer science from TU Munich majoring in formal methods with focus on theorem proving.
-This is where I ventured into theoretical computer science.
 From Oct 2007 to Mar 2012, I was working as a software developer in Perot Systems, which was later bought by Dell.
 
 ## Selected Publications
